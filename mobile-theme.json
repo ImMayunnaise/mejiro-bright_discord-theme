@@ -2,202 +2,9 @@
   "name": "Mejiro Bright (Uma Musume)",
   "description": "A fully up-to-date and exhaustive custom anime theme inspired by Mejiro Bright, adapted from ClearVision.",
   "author": "immayunnaise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "spec": 2,
-  "semanticColors": {
-    "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "HEADER_SECONDARY": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "TEXT_NORMAL": [
-      "#d1f7ee",
-      "#d1f7ee"
-    ],
-    "TEXT_MUTED": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "TEXT_LINK": [
-      "#23a88e",
-      "#23a88e"
-    ],
-    "TEXT_BRAND": [
-      "#1A8F78",
-      "#1A8F78"
-    ],
-    "TEXT_WARNING": [
-      "#f4c430",
-      "#f4c430"
-    ],
-    "TEXT_DANGER": [
-      "#ff3366",
-      "#ff3366"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#a8e6cf",
-      "#a8e6cf"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#1A8F78",
-      "#1A8F78"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "INTERACTIVE_MUTED": [
-      "rgba(209, 247, 238, 0.4)",
-      "rgba(209, 247, 238, 0.4)"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "CHANNEL_ICON": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#0f1412",
-      "#0f1412"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#141a17",
-      "#141a17"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#111614",
-      "#111614"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#0c100f",
-      "#0c100f"
-    ],
-    "BACKGROUND_FLOATING": [
-      "#0f1412",
-      "#0f1412"
-    ],
-    "BACKGROUND_ACCENT": [
-      "rgba(26, 143, 120, 0.2)",
-      "rgba(26, 143, 120, 0.2)"
-    ],
-    "BACKGROUND_NESTED_CONTAINER": [
-      "#0c100f",
-      "#0c100f"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(26, 143, 120, 0.1)",
-      "rgba(26, 143, 120, 0.1)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(26, 143, 120, 0.18)",
-      "rgba(26, 143, 120, 0.18)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(26, 143, 120, 0.25)",
-      "rgba(26, 143, 120, 0.25)"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(26, 143, 120, 0.24)",
-      "rgba(26, 143, 120, 0.24)"
-    ],
-    "BACKGROUND_MENTIONED": [
-      "rgba(35, 168, 142, 0.15)",
-      "rgba(35, 168, 142, 0.15)"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "rgba(35, 168, 142, 0.25)",
-      "rgba(35, 168, 142, 0.25)"
-    ],
-    "MENTION_BACKGROUND": [
-      "rgba(26, 143, 120, 0.3)",
-      "rgba(26, 143, 120, 0.3)"
-    ],
-    "MENTION_TEXT": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "AUDIO_BAR_BACKGROUND": [
-      "#111614",
-      "#111614"
-    ],
-    "ACTIVITY_CARD_BACKGROUND": [
-      "#141a17",
-      "#141a17"
-    ],
-    "CARD_PRIMARY_BACKGROUND": [
-      "rgba(20, 26, 23, 0.8)",
-      "rgba(20, 26, 23, 0.8)"
-    ],
-    "CARD_SECONDARY_BACKGROUND": [
-      "rgba(12, 16, 15, 0.7)",
-      "rgba(12, 16, 15, 0.7)"
-    ],
-    "BUTTON_PRIMARY_BACKGROUND": [
-      "#1A8F78",
-      "#1A8F78"
-    ],
-    "BUTTON_PRIMARY_HOVER_BACKGROUND": [
-      "#136B5A",
-      "#136B5A"
-    ],
-    "BUTTON_SECONDARY_BACKGROUND": [
-      "rgba(26, 143, 120, 0.2)",
-      "rgba(26, 143, 120, 0.2)"
-    ],
-    "BUTTON_DANGER_BACKGROUND": [
-      "#ff3366",
-      "#ff3366"
-    ],
-    "BUTTON_POSITIVE_BACKGROUND": [
-      "#00ffc8",
-      "#00ffc8"
-    ],
-    "INPUT_BACKGROUND": [
-      "#0c100f",
-      "#0c100f"
-    ],
-    "INPUT_PLACEHOLDER": [
-      "rgba(163, 233, 211, 0.4)",
-      "rgba(163, 233, 211, 0.4)"
-    ],
-    "BORDER_LIGHT": [
-      "rgba(255, 255, 255, 0.05)",
-      "rgba(255, 255, 255, 0.05)"
-    ],
-    "BORDER_REMOVABLE": [
-      "rgba(26, 143, 120, 0.2)",
-      "rgba(26, 143, 120, 0.2)"
-    ],
-    "DIVIDER_BACKGROUND": [
-      "rgba(26, 143, 120, 0.15)",
-      "rgba(26, 143, 120, 0.15)"
-    ],
-    "STATUS_DND": [
-      "#1A8F78",
-      "#1A8F78"
-    ],
-    "STATUS_ONLINE": [
-      "#00ffc8",
-      "#00ffc8"
-    ],
-    "STATUS_IDLE": [
-      "#f4c430",
-      "#f4c430"
-    ],
-    "STATUS_OFFLINE": [
-      "#ffffff",
-      "#ffffff"
-    ],
-    "STATUS_STREAMING": [
-      "#6f00ff",
-      "#6f00ff"
-    ]
-  },
+  "semanticColors": {},
   "rawColors": {
     "brand_100": "#d1f7ee",
     "brand_200": "#c2f2e5",
@@ -207,6 +14,7 @@
     "brand_600": "#136B5A",
     "brand_700": "#0f1412",
     "brand_800": "#0c100f",
+    
     "primary_100": "#d1f7ee",
     "primary_200": "#c2f2e5",
     "primary_300": "#a3e9d3",
@@ -216,8 +24,14 @@
     "primary_700": "#111614",
     "primary_800": "#0f1412",
     "primary_900": "#0c100f",
+    
     "white": "#ffffff",
-    "black": "#050706"
+    "black": "#0c100f",
+    "transparent": "rgba(0, 0, 0, 0)",
+
+    "green_360": "#00ffc8",
+    "yellow_360": "#f4c430",
+    "red_360": "#ff3366"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
