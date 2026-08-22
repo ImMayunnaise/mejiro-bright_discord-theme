@@ -410,5 +410,11 @@
     "url": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
     "blur": 4,
     "alpha": 0.35
+  },
+  "plus": {
+    "version": 0,
+    "unreadBadgeColor": "#F17AA7",
+    "mentionLineColor": "#1A8F78",
+    "customOverlays": true
   }
 }
