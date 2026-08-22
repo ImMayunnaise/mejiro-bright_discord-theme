@@ -2,59 +2,27 @@
   "name": "Mejiro Bright (Uma Musume)",
   "description": "A fully exhaustive custom anime theme inspired by Mejiro Bright, adapted from the original 534-line ClearVision configuration.",
   "author": "immayunnaise",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "spec": 2,
     "semanticColors": {
     "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
     "HEADER_SECONDARY": ["#a3e9d3", "#a3e9d3"],
     "TEXT_NORMAL": ["#d1f7ee", "#d1f7ee"],
     "TEXT_MUTED": ["#a3e9d3", "#a3e9d3"],
-    "TEXT_LINK": ["#23a88e", "#23a88e"],
-    "TEXT_BRAND": ["#1A8F78", "#1A8F78"],
-    "TEXT_LOW_CONTRAST": ["#a3e9d3", "#a3e9d3"],
-
     "INTERACTIVE_NORMAL": ["#a8e6cf", "#a8e6cf"],
     "INTERACTIVE_HOVER": ["#1A8F78", "#1A8F78"],
     "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff"],
-    "INTERACTIVE_MUTED": ["rgba(209, 247, 238, 0.4)", "rgba(209, 247, 238, 0.4)"],
-    "CHANNELS_DEFAULT": ["#a3e9d3", "#a3e9d3"],
-    "CHANNEL_ICON": ["#a3e9d3", "#a3e9d3"],
-
-    "BG_BASE_PRIMARY": ["rgba(15, 20, 18, 0.45)", "rgba(15, 20, 18, 0.45)"],
-    "BG_BASE_SECONDARY": ["rgba(20, 26, 23, 0.55)", "rgba(20, 26, 23, 0.55)"],
-    "BG_BASE_TERTIARY": ["rgba(12, 16, 15, 0.60)", "rgba(12, 16, 15, 0.60)"],
-    "BG_SURFACE_OVERLAY": ["rgba(15, 20, 18, 0.85)", "rgba(15, 20, 18, 0.85)"],
-    "BG_MOD_SUBTLE": ["rgba(20, 26, 23, 0.55)", "rgba(20, 26, 23, 0.55)"],
-    "BG_MOD_STRONG": ["rgba(17, 22, 20, 0.65)", "rgba(17, 22, 20, 0.65)"],
-    
-    "BACKGROUND_PRIMARY": ["rgba(15, 20, 18, 0.45)", "rgba(15, 20, 18, 0.45)"],
-    "BACKGROUND_SECONDARY": ["rgba(20, 26, 23, 0.55)", "rgba(20, 26, 23, 0.55)"],
-    "BACKGROUND_SECONDARY_ALT": ["rgba(17, 22, 20, 0.65)", "rgba(17, 22, 20, 0.65)"],
-    "BACKGROUND_TERTIARY": ["rgba(12, 16, 15, 0.60)", "rgba(12, 16, 15, 0.60)"],
-    "BACKGROUND_FLOATING": ["rgba(15, 20, 18, 0.85)", "rgba(15, 20, 18, 0.85)"],
-    "BACKGROUND_ACCENT": ["rgba(26, 143, 120, 0.20)", "rgba(26, 143, 120, 0.20)"],
-    
-    "BACKGROUND_MODIFIER_HOVER": ["rgba(26, 143, 120, 0.12)", "rgba(26, 143, 120, 0.12)"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(26, 143, 120, 0.22)", "rgba(26, 143, 120, 0.22)"],
-    "BACKGROUND_MODIFIER_SELECTED": ["rgba(26, 143, 120, 0.30)", "rgba(26, 143, 120, 0.30)"],
-    "BACKGROUND_MENTIONED": ["rgba(35, 168, 142, 0.15)", "rgba(35, 168, 142, 0.15)"],
-
-    "CARD_PRIMARY_BACKGROUND": ["rgba(20, 26, 23, 0.60)", "rgba(20, 26, 23, 0.60)"],
-    "CARD_SECONDARY_BACKGROUND": ["rgba(12, 16, 15, 0.50)", "rgba(12, 16, 15, 0.50)"],
-    "BACKGROUND_NESTED_CONTAINER": ["rgba(12, 16, 15, 0.40)", "rgba(12, 16, 15, 0.40)"],
-    "INPUT_BACKGROUND": ["rgba(12, 16, 15, 0.65)", "rgba(12, 16, 15, 0.65)"],
-    "INPUT_BORDER": ["rgba(26, 143, 120, 0.40)", "rgba(26, 143, 120, 0.40)"],
-    "DIVIDER_BACKGROUND": ["rgba(26, 143, 120, 0.25)", "rgba(26, 143, 120, 0.25)"],
-
-    "STATUS_DND": ["#1A8F78", "#1A8F78"],
-    "STATUS_ONLINE": ["#00ffc8", "#00ffc8"],
-    "STATUS_IDLE": ["#f4c430", "#f4c430"]
+    "CHANNELS_DEFAULT": ["#a3e9d3", "#a3e9d3"]
   },
   "rawColors": {
     "brand_500": "#1A8F78",
     "brand_600": "#136B5A",
-    "white": "#ffffff",
-    "black": "#050706"
+    "primary_500": "#1A8F78",
+    "primary_600": "#141a17",
+    "primary_650": "#111614",
+    "primary_700": "#0f1412",
+    "primary_800": "#0c100f",
+    "white": "#ffffff"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
