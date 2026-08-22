@@ -15,17 +15,7 @@ A sleek Discord theme inspired by **Mejiro Bright** from *Uma Musume Pretty Derb
 
 * **Palette Mejiro** : Couleurs basées sur le vert émeraude, le menthe doux et des touches dorées vanille.
 * **Ambiance Printanière** : Teintes pastel et interfaces adoucies évoquant l'élégance de la lignée Mejiro.
-* **Double Compatibilité** : Optimisé pour les versions de bureau :
-stable 595897 (cc84a84) Build Override: N/A
-Vencord ef29bbe (Vesktop v1.6.7)
-Electron 43.2.0
-Chromium 150.0.7871.129
-
-et mobiles :
-Version: 341.13 (6209) - googleRelease
-Build: 341013
-Vendetta: 1.4.1.7
-
+* **Double Compatibilité** : Optimisé pour les versions de bureau : stable 595897 (cc84a84) Build Override: N/A / Vencord ef29bbe (Vesktop v1.6.7) / Electron 43.2.0 /Chromium 150.0.7871.129 et mobiles : Version: 341.13 (6209) - googleRelease / Build: 341013 / Vendetta: 1.4.1.7
 * **Lisibilité Maximale** : Fort contraste appliqué sur les textes crème pour éviter la fatigue visuelle.
 
 ---
@@ -73,17 +63,7 @@ Vendetta: 1.4.1.7
 
 * **Mejiro Palette**: Color scheme based on emerald green, soft mint, and vanilla gold accents.
 * **Spring Ambience**: Pastel tones and smoothed interfaces echoing the elegance of the Mejiro bloodline.
-* **Dual Compatibility**: Fully optimized for desktop version :
-stable 595897 (cc84a84) Build Override: N/A
-Vencord ef29bbe (Vesktop v1.6.7)
-Electron 43.2.0
-Chromium 150.0.7871.129
-
-and mobile :
-Version: 341.13 (6209) - googleRelease
-Build: 341013
-Vendetta: 1.4.1.7
-
+* **Dual Compatibility**: Fully optimized for desktop version : stable 595897 (cc84a84) Build Override: N/A / Vencord ef29bbe (Vesktop v1.6.7) / Electron 43.2.0 /Chromium 150.0.7871.129 and mobiles : Version: 341.13 (6209) - googleRelease / Build: 341013 / Vendetta: 1.4.1.7
 * **High Readability**: Strong contrast applied to cream text designed to prevent eye strain.
 
 ---
