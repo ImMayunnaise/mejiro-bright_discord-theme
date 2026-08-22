@@ -6,20 +6,20 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.1.0",
+  "version": "1.1.1",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
+      "#E9C560",
+      "#E9C560"
     ],
     "HEADER_SECONDARY": [
       "#a3e9d3",
       "#a3e9d3"
     ],
     "TEXT_NORMAL": [
-      "#d1f7ee",
-      "#d1f7ee"
+      "#F5D9C0",
+      "#F5D9C0"
     ],
     "TEXT_MUTED": [
       "#a3e9d3",
@@ -78,8 +78,8 @@
       "#1A8F78"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#ffffff"
+      "#E9C560",
+      "#E9C560"
     ],
     "INTERACTIVE_MUTED": [
       "rgba(209, 247, 238, 0.4)",
