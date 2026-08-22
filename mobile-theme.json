@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "spec": 2,
     "semanticColors": {
-        /* --- Textes et En-têtes --- */
+  
         "HEADER_PRIMARY": [
             "#ffffff",
             "#ffffff"
@@ -38,7 +38,7 @@
             "#ff3366",
             "#ff3366"
         ],
-        /* --- Éléments Interactifs et Icônes --- */
+
         "INTERACTIVE_NORMAL": [
             "#a8e6cf",
             "#a8e6cf"
@@ -63,7 +63,7 @@
             "#a3e9d3",
             "#a3e9d3"
         ],
-        /* --- Conteneurs et Structure Globale --- */
+
         "BACKGROUND_PRIMARY": [
             "#0f1412",
             "#0f1412"
@@ -92,7 +92,7 @@
             "#0c100f",
             "#0c100f"
         ],
-        /* --- Modificateurs d'états (Survols et Sélections) --- */
+  
         "BACKGROUND_MODIFIER_HOVER": [
             "rgba(26, 143, 120, 0.1)",
             "rgba(26, 143, 120, 0.1)"
@@ -109,7 +109,7 @@
             "rgba(26, 143, 120, 0.24)",
             "rgba(26, 143, 120, 0.24)"
         ],
-        /* --- Mentions et Notifications --- */
+
         "BACKGROUND_MENTIONED": [
             "rgba(35, 168, 142, 0.15)",
             "rgba(35, 168, 142, 0.15)"
@@ -126,7 +126,7 @@
             "#ffffff",
             "#ffffff"
         ],
-        /* --- Salons Vocaux et Activités --- */
+
         "AUDIO_BAR_BACKGROUND": [
             "#111614",
             "#111614"
@@ -143,7 +143,7 @@
             "rgba(12, 16, 15, 0.7)",
             "rgba(12, 16, 15, 0.7)"
         ],
-        /* --- Boutons et Éléments de Formulaires --- */
+
         "BUTTON_PRIMARY_BACKGROUND": [
             "#1A8F78",
             "#1A8F78"
@@ -172,7 +172,7 @@
             "rgba(163, 233, 211, 0.4)",
             "rgba(163, 233, 211, 0.4)"
         ],
-        /* --- Lignes et Bordures --- */
+
         "BORDER_LIGHT": [
             "rgba(255, 255, 255, 0.05)",
             "rgba(255, 255, 255, 0.05)"
@@ -185,7 +185,7 @@
             "rgba(26, 143, 120, 0.15)",
             "rgba(26, 143, 120, 0.15)"
         ],
-        /* --- Statuts d'utilisateurs --- */
+
         "STATUS_DND": [
             "#1A8F78",
             "#1A8F78"
@@ -208,7 +208,7 @@
         ]
     },
     "rawColors": {
-        /* Écrase l'intégralité des palettes de teintes Discord par défaut */
+
         "brand_100": "#d1f7ee",
         "brand_200": "#c2f2e5",
         "brand_300": "#a3e9d3",
