@@ -8,7 +8,7 @@
   ],
   "version": "1.1.3",
   "spec": 2,
-  "custom_colors": {
+   "custom_colors": {
     "mention_color": "#1A8F78",
     "unread_badge_color": "#1A8F78",
     "unread_badge_text_color": "#ffffff",
@@ -22,7 +22,7 @@
     "header_secondary": "#a3e9d3",
     "brand_color": "#1A8F78",
     "brand_color_hover": "#136B5A",
-    "home_icon_url": "https://i.imgur.com/yfIqCgE.jpeg"
+    "home_icon_url": "https://imgur.com"
   },
   "semanticColors": {
     "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
@@ -37,12 +37,12 @@
     "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff"],
     "CHANNELS_DEFAULT": ["#a3e9d3", "#a3e9d3"],
     "CHANNEL_ICON": ["#a3e9d3", "#a3e9d3"],
-    "BACKGROUND_PRIMARY": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
-    "BACKGROUND_SECONDARY": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
-    "BACKGROUND_SECONDARY_ALT": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
-    "BACKGROUND_TERTIARY": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
-    "BACKGROUND_MOBILE_PRIMARY": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
-    "BACKGROUND_MOBILE_SECONDARY": ["rgba(0,0,0,0)", "rgba(0,0,0,0)"],
+    "BACKGROUND_PRIMARY": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
+    "BACKGROUND_SECONDARY": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
+    "BACKGROUND_SECONDARY_ALT": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
+    "BACKGROUND_TERTIARY": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
+    "BACKGROUND_MOBILE_PRIMARY": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
+    "BACKGROUND_MOBILE_SECONDARY": ["rgba(0, 0, 0, 0)", "rgba(0, 0, 0, 0)"],
     "BACKGROUND_FLOATING": ["rgba(15, 20, 18, 0.85)", "rgba(15, 20, 18, 0.85)"],
     "BACKGROUND_NESTED_CONTAINER": ["rgba(12, 16, 15, 0.4)", "rgba(12, 16, 15, 0.4)"],
     "CARD_PRIMARY_BACKGROUND": ["rgba(20, 26, 23, 0.5)", "rgba(20, 26, 23, 0.5)"],
