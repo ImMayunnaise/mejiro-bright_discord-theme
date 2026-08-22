@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.1.2",
+  "version": "1.1.3",
   "spec": 2,
   "custom_colors": {
     "mention_color": "#1A8F78",
@@ -22,7 +22,7 @@
     "header_secondary": "#a3e9d3",
     "brand_color": "#1A8F78",
     "brand_color_hover": "#136B5A",
-    "home_icon_url": "https://imgur.com"
+    "home_icon_url": "https://i.imgur.com/yfIqCgE.jpeg"
   },
   "semanticColors": {
     "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
@@ -62,6 +62,11 @@
     "brand_600": "#136B5A",
     "white": "#ffffff",
     "black": "#050706"
+  },
+    "background": {
+    "url": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
+    "blur": 4,
+    "alpha": 0.35
   },
   "plus": {
     "version": 0,
