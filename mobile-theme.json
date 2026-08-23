@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.1.6",
+  "version": "1.1.7",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -20,6 +20,34 @@
     "TEXT_NORMAL": [
       "#F5D9C0",
       "#F5D9C0"
+    ],
+    "TEXT_DEFAULT": [
+      "#F5D9C0",
+      "#F5D9C0"
+    ],
+    "TEXT_STRONG": [
+      "#F5D9C0",
+      "#F5D9C0"
+    ],
+    "TEXT_SUBTLE": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#E9C560",
+      "#E9C560"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E9C560",
+      "#E9C560"
+    ],
+    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "MESSAGES_ITEM_CHANNEL_TEXT_DEFAULT": [
+      "#a3e9d3",
+      "#a3e9d3"
     ],
     "TEXT_MUTED": [
       "#a3e9d3",
