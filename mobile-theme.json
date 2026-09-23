@@ -6,9 +6,9 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.3.1",
+  "version": "1.3.2",
   "spec": 2,
-   "semanticColors": {
+  "semanticColors": {
     "HEADER_PRIMARY": [
       "#E9C560",
       "#E9C560"
@@ -18,12 +18,12 @@
       "#a3e9d3"
     ],
     "TEXT_NORMAL": [
-      "#9CF0D6",
-      "#9CF0D6"
+      "#FFE3B0",
+      "#FFE3B0"
     ],
     "TEXT_PRIMARY": [
-      "#9CF0D6",
-      "#9CF0D6"
+      "#FFE3B0",
+      "#FFE3B0"
     ],
     "TEXT_SECONDARY": [
       "#a3e9d3",
@@ -416,15 +416,27 @@
     "ELEVATION_HIGH": [
       "rgba(0, 0, 0, 0.45)",
       "rgba(0, 0, 0, 0.45)"
+    ],
+    "TEXT_DEFAULT": [
+      "#FFE3B0",
+      "#FFE3B0"
+    ],
+    "TEXT_STRONG": [
+      "#E9C560",
+      "#E9C560"
+    ],
+    "TEXT_SUBTLE": [
+      "#a3e9d3",
+      "#a3e9d3"
     ]
   },
   "rawColors": {
-    "PRIMARY_100": "#9CF0D6",
-    "PRIMARY_200": "#9CF0D6",
-    "PRIMARY_300": "#A9CFC5",
-    "PRIMARY_330": "#9CC3B8",
-    "PRIMARY_360": "#9CF0D6",
-    "PRIMARY_400": "#9CF0D6",
+    "PRIMARY_100": "#FFE3B0",
+    "PRIMARY_200": "#FFE3B0",
+    "PRIMARY_300": "#a3e9d3",
+    "PRIMARY_330": "#a3e9d3",
+    "PRIMARY_360": "#FFE3B0",
+    "PRIMARY_400": "#FFE3B0",
     "PRIMARY_460": "#4E786E",
     "PRIMARY_500": "#3D625A",
     "PRIMARY_530": "#2D4F47",
@@ -439,7 +451,7 @@
     "BRAND_260": "#6FE0C4",
     "BRAND_300": "#57D6B7",
     "BRAND_330": "#45CDAB",
-    "BRAND_345": "#3AC7A2",
+    "BRAND_345": "#FFE3B0",
     "BRAND_360": "#2FC098",
     "BRAND_400": "#22AE87",
     "BRAND_430": "#1FA080",
@@ -455,7 +467,7 @@
     "RED_260": "#FFC3D9",
     "RED_300": "#FDA9C6",
     "RED_330": "#F996B9",
-    "RED_345": "#F58BB1",
+    "RED_345": "#FFE3B0",
     "RED_360": "#F180A9",
     "RED_400": "#EC739F",
     "RED_430": "#E76896",
@@ -470,7 +482,7 @@
     "ORANGE_260": "#FFDFA3",
     "ORANGE_300": "#F8D08C",
     "ORANGE_330": "#F0C177",
-    "ORANGE_345": "#E9B76B",
+    "ORANGE_345": "#FFE3B0",
     "ORANGE_360": "#E1AD60",
     "ORANGE_400": "#D9A155",
     "ORANGE_430": "#D0964B",
@@ -485,7 +497,7 @@
     "YELLOW_260": "#FFEFB0",
     "YELLOW_300": "#FBE596",
     "YELLOW_330": "#F5D97D",
-    "YELLOW_345": "#EFCF6E",
+    "YELLOW_345": "#FFE3B0",
     "YELLOW_360": "#E9C560",
     "YELLOW_400": "#E1B84F",
     "YELLOW_430": "#D8AC42",
@@ -500,7 +512,7 @@
     "GREEN_260": "#85E8CC",
     "GREEN_300": "#6EDDBE",
     "GREEN_330": "#5AD3B2",
-    "GREEN_345": "#4FCBA9",
+    "GREEN_345": "#FFE3B0",
     "GREEN_360": "#45C3A0",
     "GREEN_400": "#38B393",
     "GREEN_430": "#33A588",
@@ -515,7 +527,7 @@
     "BLUE_260": "#94A8E8",
     "BLUE_300": "#7C93DE",
     "BLUE_330": "#6A82D3",
-    "BLUE_345": "#5F76C9",
+    "BLUE_345": "#FFE3B0",
     "BLUE_360": "#546AC0",
     "BLUE_400": "#4A5FB3",
     "BLUE_430": "#4155A6",
@@ -528,9 +540,9 @@
     "BLUE_660": "#131942",
     "BLUE_700": "#0F1435",
     "PLUM_1": "#a3e9d3",
-    "PLUM_3": "#9CF0D6",
-    "PLUM_4": "#9CF0D6",
-    "PLUM_6": "#9CF0D6",
+    "PLUM_3": "#FFE3B0",
+    "PLUM_4": "#FFE3B0",
+    "PLUM_6": "#FFE3B0",
     "PLUM_9": "#a3e9d3",
     "PLUM_10": "#a3e9d3",
     "PLUM_11": "#23a88e",
@@ -548,7 +560,7 @@
     "GUILD_BOOSTING_PINK": "#F17AA7",
     "GUILD_BOOSTING_PURPLE": "#7C93DE",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7C93DE",
-    "ROLE_DEFAULT": "#F5D9C0",
+    "ROLE_DEFAULT": "#FFE3B0",
     "WHITE_500": "#ffffff",
     "WHITE_630": "#d1f7ee",
     "brand_500": "#1A8F78",
