@@ -6,8 +6,8 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.3.2",
-  "spec": 2,
+  "version": "1.3.3",
+   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#E9C560",
@@ -18,12 +18,12 @@
       "#a3e9d3"
     ],
     "TEXT_NORMAL": [
-      "#FFE3B0",
-      "#FFE3B0"
+      "#F5D9C0",
+      "#F5D9C0"
     ],
     "TEXT_PRIMARY": [
-      "#FFE3B0",
-      "#FFE3B0"
+      "#F5D9C0",
+      "#F5D9C0"
     ],
     "TEXT_SECONDARY": [
       "#a3e9d3",
@@ -46,12 +46,12 @@
       "#a3e9d3"
     ],
     "TEXT_MUTED_ON_BRAND": [
-      "#d1f7ee",
-      "#d1f7ee"
+      "#FFE3B0",
+      "#FFE3B0"
     ],
     "TEXT_ON_BRAND": [
-      "#ffffff",
-      "#ffffff"
+      "#FFF1D6",
+      "#FFF1D6"
     ],
     "TEXT_POSITIVE": [
       "#3FD9A5",
@@ -290,8 +290,8 @@
       "rgba(8, 15, 14, 0.95)"
     ],
     "TOOLTIP_PRIMARY_TEXT": [
-      "#d1f7ee",
-      "#d1f7ee"
+      "#FFE3B0",
+      "#FFE3B0"
     ],
     "MENTION_BACKGROUND": [
       "rgba(26, 143, 120, 0.16)",
@@ -402,8 +402,8 @@
       "#F17AA7"
     ],
     "STATUS_OFFLINE": [
-      "#6f8f86",
-      "#6f8f86"
+      "#4F8F80",
+      "#4F8F80"
     ],
     "ELEVATION_LOW": [
       "rgba(0, 0, 0, 0.2)",
@@ -417,17 +417,61 @@
       "rgba(0, 0, 0, 0.45)",
       "rgba(0, 0, 0, 0.45)"
     ],
-    "TEXT_DEFAULT": [
-      "#FFE3B0",
-      "#FFE3B0"
+    "BACKGROUND_SURFACE_HIGH": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
     ],
-    "TEXT_STRONG": [
-      "#E9C560",
-      "#E9C560"
+    "BACKGROUND_SURFACE_HIGHEST": [
+      "rgba(24, 46, 41, 0.55)",
+      "rgba(24, 46, 41, 0.55)"
     ],
-    "TEXT_SUBTLE": [
-      "#a3e9d3",
-      "#a3e9d3"
+    "BACKGROUND_SURFACE_RAISED": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
+    ],
+    "BG_SURFACE_RAISED": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "rgba(8, 15, 14, 0.4)",
+      "rgba(8, 15, 14, 0.4)"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "rgba(8, 15, 14, 0.45)",
+      "rgba(8, 15, 14, 0.45)"
+    ],
+    "BG_MOD_FAINT": [
+      "rgba(26, 143, 120, 0.06)",
+      "rgba(26, 143, 120, 0.06)"
+    ],
+    "BG_MOD_SUBTLE": [
+      "rgba(26, 143, 120, 0.1)",
+      "rgba(26, 143, 120, 0.1)"
+    ],
+    "BG_MOD_NORMAL": [
+      "rgba(26, 143, 120, 0.16)",
+      "rgba(26, 143, 120, 0.16)"
+    ],
+    "BG_MOD_STRONG": [
+      "rgba(26, 143, 120, 0.24)",
+      "rgba(26, 143, 120, 0.24)"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
+    ],
+    "CARD_BACKGROUND_HOVER": [
+      "rgba(26, 143, 120, 0.12)",
+      "rgba(26, 143, 120, 0.12)"
+    ],
+    "CARD_BACKGROUND_PRESSED": [
+      "rgba(26, 143, 120, 0.2)",
+      "rgba(26, 143, 120, 0.2)"
+    ],
+    "BORDER_NORMAL": [
+      "rgba(26, 143, 120, 0.25)",
+      "rgba(26, 143, 120, 0.25)"
     ]
   },
   "rawColors": {
@@ -451,7 +495,7 @@
     "BRAND_260": "#6FE0C4",
     "BRAND_300": "#57D6B7",
     "BRAND_330": "#45CDAB",
-    "BRAND_345": "#FFE3B0",
+    "BRAND_345": "#3AC7A2",
     "BRAND_360": "#2FC098",
     "BRAND_400": "#22AE87",
     "BRAND_430": "#1FA080",
@@ -467,7 +511,7 @@
     "RED_260": "#FFC3D9",
     "RED_300": "#FDA9C6",
     "RED_330": "#F996B9",
-    "RED_345": "#FFE3B0",
+    "RED_345": "#F58BB1",
     "RED_360": "#F180A9",
     "RED_400": "#EC739F",
     "RED_430": "#E76896",
@@ -482,7 +526,7 @@
     "ORANGE_260": "#FFDFA3",
     "ORANGE_300": "#F8D08C",
     "ORANGE_330": "#F0C177",
-    "ORANGE_345": "#FFE3B0",
+    "ORANGE_345": "#E9B76B",
     "ORANGE_360": "#E1AD60",
     "ORANGE_400": "#D9A155",
     "ORANGE_430": "#D0964B",
@@ -497,7 +541,7 @@
     "YELLOW_260": "#FFEFB0",
     "YELLOW_300": "#FBE596",
     "YELLOW_330": "#F5D97D",
-    "YELLOW_345": "#FFE3B0",
+    "YELLOW_345": "#EFCF6E",
     "YELLOW_360": "#E9C560",
     "YELLOW_400": "#E1B84F",
     "YELLOW_430": "#D8AC42",
@@ -512,7 +556,7 @@
     "GREEN_260": "#85E8CC",
     "GREEN_300": "#6EDDBE",
     "GREEN_330": "#5AD3B2",
-    "GREEN_345": "#FFE3B0",
+    "GREEN_345": "#4FCBA9",
     "GREEN_360": "#45C3A0",
     "GREEN_400": "#38B393",
     "GREEN_430": "#33A588",
@@ -527,7 +571,7 @@
     "BLUE_260": "#94A8E8",
     "BLUE_300": "#7C93DE",
     "BLUE_330": "#6A82D3",
-    "BLUE_345": "#FFE3B0",
+    "BLUE_345": "#5F76C9",
     "BLUE_360": "#546AC0",
     "BLUE_400": "#4A5FB3",
     "BLUE_430": "#4155A6",
@@ -540,9 +584,9 @@
     "BLUE_660": "#131942",
     "BLUE_700": "#0F1435",
     "PLUM_1": "#a3e9d3",
-    "PLUM_3": "#FFE3B0",
-    "PLUM_4": "#FFE3B0",
-    "PLUM_6": "#FFE3B0",
+    "PLUM_3": "#F5D9C0",
+    "PLUM_4": "#F5D9C0",
+    "PLUM_6": "#F5D9C0",
     "PLUM_9": "#a3e9d3",
     "PLUM_10": "#a3e9d3",
     "PLUM_11": "#23a88e",
@@ -560,14 +604,25 @@
     "GUILD_BOOSTING_PINK": "#F17AA7",
     "GUILD_BOOSTING_PURPLE": "#7C93DE",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7C93DE",
-    "ROLE_DEFAULT": "#FFE3B0",
-    "WHITE_500": "#ffffff",
-    "WHITE_630": "#d1f7ee",
+    "ROLE_DEFAULT": "#F5D9C0",
+    "WHITE_500": "#FFF1D6",
+    "WHITE_630": "#FFE3B0",
     "brand_500": "#1A8F78",
     "brand_600": "#136B5A",
     "primary_500": "#1A8F78",
-    "white": "#ffffff",
-    "black": "#050706"
+    "white": "#FFF1D6",
+    "black": "#050706",
+    "PRIMARY_130": "#FFE3B0",
+    "PRIMARY_160": "#FFE3B0",
+    "PRIMARY_230": "#a3e9d3",
+    "PRIMARY_260": "#a3e9d3",
+    "PRIMARY_345": "#FFE3B0",
+    "PRIMARY_430": "#5A857A",
+    "PRIMARY_560": "#24433C",
+    "PRIMARY_760": "#0A1210",
+    "PRIMARY_830": "#070D0C",
+    "PRIMARY_860": "#050A09",
+    "PRIMARY_900": "#030605"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
@@ -610,7 +665,7 @@
         "#F17AA7"
       ],
       "StatusOffline": [
-        "#6f8f86"
+        "#4F8F80"
       ],
       "StatusStreaming": [
         "#593695"
