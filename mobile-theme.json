@@ -6,20 +6,28 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.2.2",
+  "version": "1.3.0",
   "spec": 2,
-  "semanticColors": {
+   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#E2A0B8",
-      "#E2A0B8"
+      "#E9C560",
+      "#E9C560"
     ],
     "HEADER_SECONDARY": [
       "#a3e9d3",
       "#a3e9d3"
     ],
     "TEXT_NORMAL": [
-      "#C2ECD9",
-      "#C2ECD9"
+      "#F5D9C0",
+      "#F5D9C0"
+    ],
+    "TEXT_PRIMARY": [
+      "#F5D9C0",
+      "#F5D9C0"
+    ],
+    "TEXT_SECONDARY": [
+      "#a3e9d3",
+      "#a3e9d3"
     ],
     "TEXT_MUTED": [
       "#a3e9d3",
@@ -78,8 +86,8 @@
       "#1A8F78"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#E2A0B8",
-      "#E2A0B8"
+      "#E9C560",
+      "#E9C560"
     ],
     "INTERACTIVE_MUTED": [
       "rgba(209, 247, 238, 0.4)",
@@ -97,7 +105,19 @@
       "#7FA69B",
       "#7FA69B"
     ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
     "CHANNELTEXTAREA_BACKGROUND": [
+      "rgba(8, 15, 14, 0.65)",
+      "rgba(8, 15, 14, 0.65)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "rgba(8, 15, 14, 0.65)",
       "rgba(8, 15, 14, 0.65)"
     ],
@@ -149,6 +169,22 @@
       "rgba(15, 20, 18, 0.85)",
       "rgba(15, 20, 18, 0.85)"
     ],
+    "BG_BACKDROP": [
+      "rgba(8, 15, 14, 0.6)",
+      "rgba(8, 15, 14, 0.6)"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "rgba(8, 15, 14, 0.4)",
+      "rgba(8, 15, 14, 0.4)"
+    ],
+    "HOME_BACKGROUND": [
+      "rgba(8, 15, 14, 0.4)",
+      "rgba(8, 15, 14, 0.4)"
+    ],
+    "PANEL_BG": [
+      "rgba(8, 15, 14, 0.5)",
+      "rgba(8, 15, 14, 0.5)"
+    ],
     "BACKGROUND_FLOATING": [
       "rgba(12, 16, 15, 0.92)",
       "rgba(12, 16, 15, 0.92)"
@@ -181,17 +217,57 @@
       "rgba(26, 143, 120, 0.16)",
       "rgba(26, 143, 120, 0.16)"
     ],
-    "CARD_PRIMARY_BACKGROUND": [
+    "BACKGROUND_MENTIONED": [
+      "rgba(26, 143, 120, 0.16)",
+      "rgba(26, 143, 120, 0.16)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(26, 143, 120, 0.22)",
+      "rgba(26, 143, 120, 0.22)"
+    ],
+    "ANDROID_RIPPLE": [
+      "rgba(26, 143, 120, 0.25)",
+      "rgba(26, 143, 120, 0.25)"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "rgba(8, 15, 14, 0.6)",
+      "rgba(8, 15, 14, 0.6)"
+    ],
+    "BORDER_FAINT": [
+      "rgba(26, 143, 120, 0.25)",
+      "rgba(26, 143, 120, 0.25)"
+    ],
+    "BORDER_STRONG": [
+      "rgba(26, 143, 120, 0.5)",
+      "rgba(26, 143, 120, 0.5)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(26, 143, 120, 0.12)",
+      "rgba(26, 143, 120, 0.12)"
+    ],
+    "CARD_PRIMARY_BG": [
       "rgba(20, 26, 23, 0.5)",
       "rgba(20, 26, 23, 0.5)"
     ],
-    "CARD_SECONDARY_BACKGROUND": [
+    "CARD_SECONDARY_BG": [
       "rgba(12, 16, 15, 0.4)",
       "rgba(12, 16, 15, 0.4)"
     ],
-    "ACTIVITY_CARD_BACKGROUND": [
+    "EMBED_BACKGROUND": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "rgba(12, 16, 15, 0.5)",
       "rgba(12, 16, 15, 0.5)"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "rgba(26, 143, 120, 0.22)",
+      "rgba(26, 143, 120, 0.22)"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "rgba(26, 143, 120, 0.3)",
+      "rgba(26, 143, 120, 0.3)"
     ],
     "INPUT_BACKGROUND": [
       "rgba(12, 16, 15, 0.6)",
@@ -218,8 +294,12 @@
       "#d1f7ee"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(226, 160, 184, 0.18)",
-      "rgba(226, 160, 184, 0.18)"
+      "rgba(26, 143, 120, 0.16)",
+      "rgba(26, 143, 120, 0.16)"
+    ],
+    "MENTION_FOREGROUND": [
+      "#6FE0C4",
+      "#6FE0C4"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#0E1917",
@@ -240,6 +320,18 @@
     "GUILD_TAG_BACKGROUND": [
       "rgba(26, 143, 120, 0.2)",
       "rgba(26, 143, 120, 0.2)"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "rgba(26, 143, 120, 0.12)",
+      "rgba(26, 143, 120, 0.12)"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "rgba(20, 26, 23, 0.5)",
+      "rgba(20, 26, 23, 0.5)"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "rgba(26, 143, 120, 0.3)",
+      "rgba(26, 143, 120, 0.3)"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#1a3a34",
@@ -269,17 +361,33 @@
       "rgba(26, 143, 120, 0.18)",
       "rgba(26, 143, 120, 0.18)"
     ],
-    "ELEVATION_LOW": [
-      "rgba(0, 0, 0, 0.2)",
-      "rgba(0, 0, 0, 0.2)"
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "rgba(26, 143, 120, 0.18)",
+      "rgba(26, 143, 120, 0.18)"
     ],
-    "ELEVATION_MEDIUM": [
-      "rgba(0, 0, 0, 0.3)",
-      "rgba(0, 0, 0, 0.3)"
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "rgba(26, 143, 120, 0.18)",
+      "rgba(26, 143, 120, 0.18)"
     ],
-    "ELEVATION_HIGH": [
-      "rgba(0, 0, 0, 0.45)",
-      "rgba(0, 0, 0, 0.45)"
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "rgba(26, 143, 120, 0.4)",
+      "rgba(26, 143, 120, 0.4)"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#DC5283",
+      "#DC5283"
+    ],
+    "STATUS_DANGER": [
+      "#F17AA7",
+      "#F17AA7"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#DC5283",
+      "#DC5283"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#F17AA7",
+      "#F17AA7"
     ],
     "STATUS_ONLINE": [
       "#1A8F78",
@@ -297,47 +405,37 @@
       "#6f8f86",
       "#6f8f86"
     ],
-    "TEXT_DEFAULT": [
-      "#C2ECD9",
-      "#C2ECD9"
+    "ELEVATION_LOW": [
+      "rgba(0, 0, 0, 0.2)",
+      "rgba(0, 0, 0, 0.2)"
     ],
-    "TEXT_STRONG": [
-      "#C2ECD9",
-      "#C2ECD9"
+    "ELEVATION_MEDIUM": [
+      "rgba(0, 0, 0, 0.3)",
+      "rgba(0, 0, 0, 0.3)"
     ],
-    "TEXT_SUBTLE": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "MOBILE_TEXT_HEADING_PRIMARY": [
-      "#E2A0B8",
-      "#E2A0B8"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#E2A0B8",
-      "#E2A0B8"
-    ],
-    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "MESSAGES_ITEM_CHANNEL_TEXT_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
+    "ELEVATION_HIGH": [
+      "rgba(0, 0, 0, 0.45)",
+      "rgba(0, 0, 0, 0.45)"
     ]
   },
   "rawColors": {
     "PRIMARY_100": "#EAF6F2",
     "PRIMARY_200": "#CFE9E1",
     "PRIMARY_300": "#A9CFC5",
+    "PRIMARY_330": "#9CC3B8",
     "PRIMARY_360": "#86B3A8",
     "PRIMARY_400": "#628F84",
+    "PRIMARY_460": "#4E786E",
     "PRIMARY_500": "#3D625A",
+    "PRIMARY_530": "#2D4F47",
     "PRIMARY_600": "#1F3A34",
     "PRIMARY_630": "#182E29",
+    "PRIMARY_645": "#152823",
     "PRIMARY_660": "#12211D",
     "PRIMARY_700": "#0E1917",
+    "PRIMARY_730": "#0B1412",
     "PRIMARY_800": "#080F0E",
+    "BRAND_200": "#9BEBD8",
     "BRAND_260": "#6FE0C4",
     "BRAND_300": "#57D6B7",
     "BRAND_330": "#45CDAB",
@@ -353,6 +451,7 @@
     "BRAND_630": "#10604F",
     "BRAND_660": "#0D5545",
     "BRAND_700": "#0A4A3C",
+    "BRAND_730": "#073A2F",
     "RED_260": "#FFC3D9",
     "RED_300": "#FDA9C6",
     "RED_330": "#F996B9",
@@ -428,6 +527,30 @@
     "BLUE_630": "#182050",
     "BLUE_660": "#131942",
     "BLUE_700": "#0F1435",
+    "PLUM_1": "#a3e9d3",
+    "PLUM_3": "#F5D9C0",
+    "PLUM_4": "#F5D9C0",
+    "PLUM_6": "#F5D9C0",
+    "PLUM_9": "#a3e9d3",
+    "PLUM_10": "#a3e9d3",
+    "PLUM_11": "#23a88e",
+    "PLUM_13": "#136B5A",
+    "PLUM_15": "#182E29",
+    "PLUM_16": "#182E29",
+    "PLUM_17": "#182E29",
+    "PLUM_21": "#182E29",
+    "PLUM_18": "#12211D",
+    "PLUM_19": "#12211D",
+    "PLUM_20": "#12211D",
+    "PLUM_22": "#080F0E",
+    "PLUM_24": "#080F0E",
+    "PLUM_25": "#080F0E",
+    "GUILD_BOOSTING_PINK": "#F17AA7",
+    "GUILD_BOOSTING_PURPLE": "#7C93DE",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7C93DE",
+    "ROLE_DEFAULT": "#F5D9C0",
+    "WHITE_500": "#ffffff",
+    "WHITE_630": "#d1f7ee",
     "brand_500": "#1A8F78",
     "brand_600": "#136B5A",
     "primary_500": "#1A8F78",
@@ -442,7 +565,48 @@
   "plus": {
     "version": 0,
     "unreadBadgeColor": "#F17AA7",
-    "mentionLineColor": "#E2A0B8",
-    "customOverlays": true
+    "mentionLineColor": "#1A8F78",
+    "backgroundImageUrl": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
+    "backgroundAlpha": 0.35,
+    "blur": 4,
+    "customOverlays": true,
+    "customIconOverlays": true,
+    "customMessageMentionLineColor": true,
+    "icons": {
+      "ic_new_pins": [
+        "#1A8F78"
+      ],
+      "reply_bar": [
+        "#1A8F78"
+      ],
+      "mention_pill": [
+        "#1A8F78"
+      ],
+      "mention_line": [
+        "#1A8F78"
+      ],
+      "StatusOnline": [
+        "#1A8F78"
+      ],
+      "StatusMobileOnline": [
+        "#1A8F78"
+      ],
+      "StatusIdle": [
+        "#E3B15C"
+      ],
+      "StatusDND": [
+        "#F17AA7"
+      ],
+      "StatusOffline": [
+        "#6f8f86"
+      ],
+      "StatusStreaming": [
+        "#593695"
+      ]
+    },
+    "themes+": {
+      "customIconOverlays": true,
+      "customMessageMentionLineColor": true
+    }
   }
 }
