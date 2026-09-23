@@ -1,12 +1,12 @@
 {
   "name": "Mejiro Bright (Uma Musume)",
-  "description": "A fully exhaustive custom anime theme inspired by Mejiro Bright, adapted from ClearVision.",
+  "description": "A fully exhaustive custom anime theme inspired by Mejiro Bright, adapted for Discord build v345.9",
   "authors": [
     {
       "name": "immayunnaise"
     }
   ],
-  "version": "1.3.0",
+  "version": "1.3.1",
   "spec": 2,
    "semanticColors": {
     "HEADER_PRIMARY": [
@@ -18,12 +18,12 @@
       "#a3e9d3"
     ],
     "TEXT_NORMAL": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#9CF0D6",
+      "#9CF0D6"
     ],
     "TEXT_PRIMARY": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#9CF0D6",
+      "#9CF0D6"
     ],
     "TEXT_SECONDARY": [
       "#a3e9d3",
@@ -419,12 +419,12 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_100": "#EAF6F2",
-    "PRIMARY_200": "#CFE9E1",
+    "PRIMARY_100": "#9CF0D6",
+    "PRIMARY_200": "#9CF0D6",
     "PRIMARY_300": "#A9CFC5",
     "PRIMARY_330": "#9CC3B8",
-    "PRIMARY_360": "#86B3A8",
-    "PRIMARY_400": "#628F84",
+    "PRIMARY_360": "#9CF0D6",
+    "PRIMARY_400": "#9CF0D6",
     "PRIMARY_460": "#4E786E",
     "PRIMARY_500": "#3D625A",
     "PRIMARY_530": "#2D4F47",
@@ -528,9 +528,9 @@
     "BLUE_660": "#131942",
     "BLUE_700": "#0F1435",
     "PLUM_1": "#a3e9d3",
-    "PLUM_3": "#F5D9C0",
-    "PLUM_4": "#F5D9C0",
-    "PLUM_6": "#F5D9C0",
+    "PLUM_3": "#9CF0D6",
+    "PLUM_4": "#9CF0D6",
+    "PLUM_6": "#9CF0D6",
     "PLUM_9": "#a3e9d3",
     "PLUM_10": "#a3e9d3",
     "PLUM_11": "#23a88e",
