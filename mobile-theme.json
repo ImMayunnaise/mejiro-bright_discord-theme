@@ -6,8 +6,8 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.1",
-  "spec": 2,
+  "version": "1.4.2",
+   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#E9C560",
@@ -724,6 +724,70 @@
     "TAB_LABEL_TEXT_FOCUSED": [
       "#E9C560",
       "#E9C560"
+    ],
+    "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "MOBILE_GUILDBAR_ICON_DEFAULT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "GUILD_FOLDER_BACKGROUND": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "MOBILE_FLOATINGBAR_BACKGROUND": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
+    ],
+    "MOBILE_FLOATINGBAR_BACKGROUND_HIGHER": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
+    ],
+    "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "MOBILE_FLOATINGBAR_BACKGROUND_SCRIM": [
+      "rgba(8, 15, 14, 0.75)",
+      "rgba(8, 15, 14, 0.75)"
+    ],
+    "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "MOBILE_FLOATING_ACCESSORY_BORDER": [
+      "rgba(26, 143, 120, 0.3)",
+      "rgba(26, 143, 120, 0.3)"
+    ],
+    "USER_PROFILE_CONTAINER_BACKGROUND": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
+    ],
+    "CARD_MUTED_BG": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
+    ],
+    "CARD_MUTED_PRESSED_BG": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "PROFILE_GRADIENT_SECTION_BOX": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
+    ],
+    "PROFILE_GRADIENT_NOTE_BACKGROUND": [
+      "rgba(12, 16, 15, 0.6)",
+      "rgba(12, 16, 15, 0.6)"
+    ],
+    "BADGE_BACKGROUND_DEFAULT": [
+      "rgba(26, 143, 120, 0.25)",
+      "rgba(26, 143, 120, 0.25)"
+    ],
+    "BADGE_TEXT_DEFAULT": [
+      "#FFE3B0",
+      "#FFE3B0"
     ]
   },
   "rawColors": {
