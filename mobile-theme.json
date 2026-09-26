@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.3",
+  "version": "1.4.4",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -788,6 +788,18 @@
     "BADGE_TEXT_DEFAULT": [
       "#FFE3B0",
       "#FFE3B0"
+    ],
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": [
+      "rgba(8, 15, 14, 0.95)",
+      "rgba(8, 15, 14, 0.95)"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "rgba(8, 15, 14, 0.95)",
+      "rgba(8, 15, 14, 0.95)"
+    ],
+    "SPINE_DEFAULT": [
+      "rgba(20, 26, 23, 0.6)",
+      "rgba(20, 26, 23, 0.6)"
     ]
   },
   "rawColors": {
