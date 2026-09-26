@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.0",
+  "version": "1.4.1",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -606,8 +606,8 @@
       "rgba(26, 143, 120, 0.22)"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "rgba(12, 16, 15, 0.6)",
-      "rgba(12, 16, 15, 0.6)"
+      "rgba(8, 15, 14, 0.65)",
+      "rgba(8, 15, 14, 0.65)"
     ],
     "INPUT_PLACEHOLDER_TEXT_DEFAULT": [
       "#7FA69B",
@@ -632,6 +632,98 @@
     "MOBILE_BACKGROUND_SCRIM_OPAQUE": [
       "rgba(8, 15, 14, 0.6)",
       "rgba(8, 15, 14, 0.6)"
+    ],
+    "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+      "rgba(8, 15, 14, 0.65)",
+      "rgba(8, 15, 14, 0.65)"
+    ],
+    "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+      "rgba(8, 15, 14, 0.85)",
+      "rgba(8, 15, 14, 0.85)"
+    ],
+    "MOBILE_CHATINPUT_BORDER_DEFAULT": [
+      "rgba(26, 143, 120, 0.35)",
+      "rgba(26, 143, 120, 0.35)"
+    ],
+    "MOBILE_CHATINPUT_BORDER_ACTIVE": [
+      "#1A8F78",
+      "#1A8F78"
+    ],
+    "CHAT_INPUT_ICON_DEFAULT_TINT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "CHAT_INPUT_ACTION_BUTTON_BACKGROUND": [
+      "rgba(26, 143, 120, 0.18)",
+      "rgba(26, 143, 120, 0.18)"
+    ],
+    "CHAT_INPUT_ACTION_BUTTON_ICON_DEFAULT_TINT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
+      "#1A8F78",
+      "#1A8F78"
+    ],
+    "CHAT_INPUT_SEND_BUTTON_ACTIVE_BACKGROUND": [
+      "#1A8F78",
+      "#1A8F78"
+    ],
+    "CHAT_INPUT_SEND_BUTTON_ICON_ACTIVE_TINT": [
+      "#FFE3B0",
+      "#FFE3B0"
+    ],
+    "INPUT_BORDER_DEFAULT": [
+      "rgba(26, 143, 120, 0.35)",
+      "rgba(26, 143, 120, 0.35)"
+    ],
+    "INPUT_BORDER_ACTIVE": [
+      "#1A8F78",
+      "#1A8F78"
+    ],
+    "INPUT_TEXT_DEFAULT": [
+      "#FFE3B0",
+      "#FFE3B0"
+    ],
+    "INPUT_ICON_DEFAULT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "MOBILE_KEYBOARD_PANEL_BACKGROUND": [
+      "rgba(8, 15, 14, 0.65)",
+      "rgba(8, 15, 14, 0.65)"
+    ],
+    "MOBILE_EMOJI_BUTTON_BACKGROUND": [
+      "rgba(26, 143, 120, 0.18)",
+      "rgba(26, 143, 120, 0.18)"
+    ],
+    "MESSAGES_ITEM_CHANNEL_TEXT_DEFAULT": [
+      "#E9C560",
+      "#E9C560"
+    ],
+    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+      "#5A8F82",
+      "#5A8F82"
+    ],
+    "MOBILE_HEADER_ICON_DEFAULT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "NAVIGATOR_HEADER_TINT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "TAB_BAR_BACKGROUND": [
+      "rgba(8, 15, 14, 0.85)",
+      "rgba(8, 15, 14, 0.85)"
+    ],
+    "TAB_LABEL_TEXT_DEFAULT": [
+      "#5A8F82",
+      "#5A8F82"
+    ],
+    "TAB_LABEL_TEXT_FOCUSED": [
+      "#E9C560",
+      "#E9C560"
     ]
   },
   "rawColors": {
