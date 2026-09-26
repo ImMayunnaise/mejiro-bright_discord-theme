@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.5",
+  "version": "1.4.6",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -816,6 +816,22 @@
     "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
       "rgba(20, 26, 23, 0.55)",
       "rgba(20, 26, 23, 0.55)"
+    ],
+    "USER_PROFILE_GRADIENT_BACKGROUND": [
+      "rgba(8, 15, 14, 0.7)",
+      "rgba(8, 15, 14, 0.7)"
+    ],
+    "GUILD_PROFILE_BANNER_BACKGROUND_DEFAULT": [
+      "rgba(8, 15, 14, 0.7)",
+      "rgba(8, 15, 14, 0.7)"
+    ],
+    "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
+      "rgba(26, 143, 120, 0.22)",
+      "rgba(26, 143, 120, 0.22)"
+    ],
+    "MOBILE_HEADER_BORDER": [
+      "rgba(26, 143, 120, 0.3)",
+      "rgba(26, 143, 120, 0.3)"
     ]
   },
   "rawColors": {
