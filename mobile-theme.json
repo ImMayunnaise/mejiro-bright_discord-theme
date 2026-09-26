@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.4",
+  "version": "1.4.5",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -800,6 +800,22 @@
     "SPINE_DEFAULT": [
       "rgba(20, 26, 23, 0.6)",
       "rgba(20, 26, 23, 0.6)"
+    ],
+    "MOBILE_CHANNEL_SAFE_AREA_BOTTOM_BACKGROUND": [
+      "rgba(8, 15, 14, 0.45)",
+      "rgba(8, 15, 14, 0.45)"
+    ],
+    "MOBILE_CHAT_INPUT_ICON_DEFAULT_TINT": [
+      "#a3e9d3",
+      "#a3e9d3"
+    ],
+    "MOBILE_CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
+      "#1A8F78",
+      "#1A8F78"
+    ],
+    "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+      "rgba(20, 26, 23, 0.55)",
+      "rgba(20, 26, 23, 0.55)"
     ]
   },
   "rawColors": {
