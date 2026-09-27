@@ -286,8 +286,8 @@
       "rgba(26, 143, 120, 0.18)"
     ],
     "CHAT_INPUT_ACTION_BUTTON_ICON_DEFAULT_TINT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
       "#1A8F78",
@@ -298,16 +298,16 @@
       "rgba(8, 15, 14, 0.65)"
     ],
     "CHAT_INPUT_ICON_DEFAULT_TINT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "CHAT_INPUT_SEND_BUTTON_ACTIVE_BACKGROUND": [
       "#1A8F78",
       "#1A8F78"
     ],
     "CHAT_INPUT_SEND_BUTTON_ICON_ACTIVE_TINT": [
-      "#FFE3B0",
-      "#FFE3B0"
+      "#ffa500",
+      "#ffa500"
     ],
     "CHECKBOX_BACKGROUND_DEFAULT": [
       "rgba(8, 15, 14, 0.5)",
@@ -430,8 +430,8 @@
       "#23a88e"
     ],
     "CONTROL_ICON_ONLY_ICON_DEFAULT": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#ffc28c",
+      "#ffc28c"
     ],
     "CONTROL_OVERLAY_PRIMARY_BACKGROUND_ACTIVE": [
       "rgba(8, 15, 14, 0.6)",
@@ -670,8 +670,8 @@
       "#F5D9C0"
     ],
     "ICON_FEEDBACK_NOTIFICATION": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#ffbc00",
+      "#ffbc00"
     ],
     "ICON_FEEDBACK_POSITIVE": [
       "#008a5b",
@@ -682,8 +682,8 @@
       "#E3B15C"
     ],
     "ICON_MUTED": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "ICON_OVERLAY_DARK": [
       "#F5D9C0",
@@ -714,8 +714,8 @@
       "#F5D9C0"
     ],
     "ICON_SUBTLE": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "ICON_TRANSPARENT": [
       "#F5D9C0",
@@ -770,8 +770,8 @@
       "#F17AA7"
     ],
     "INPUT_ICON_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "INPUT_PLACEHOLDER_TEXT_DEFAULT": [
       "#7FA69B",
@@ -1038,8 +1038,8 @@
       "rgba(26, 143, 120, 0.3)"
     ],
     "MOBILE_LEGACY_BUTTON_SECONDARY_TEXT_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "MOBILE_SEARCHBAR_GRADIENT_BACKGROUND": [
       "rgba(8, 15, 14, 0.5)",
@@ -1198,16 +1198,16 @@
       "#E9C560"
     ],
     "REACTION_TEXT_ACTIVE": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "REACTION_TEXT_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "REACTION_TEXT_HOVER": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "REACTION_TEXT_REACTED_DEFAULT": [
       "#E9C560",
@@ -1950,8 +1950,8 @@
       "rgba(8, 15, 14, 0.45)"
     ],
     "MOBILE_CHAT_INPUT_ICON_DEFAULT_TINT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "MOBILE_CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
       "#1A8F78",
@@ -2262,7 +2262,7 @@
     "BRAND_160": "#D9F2EA",
     "BRAND_200": "#9BEBD8",
     "BRAND_230": "#C9E2DA",
-    "BRAND_260": "#6FE0C4",
+    "BRAND_260": "#38B393",
     "BRAND_300": "#57D6B7",
     "BRAND_330": "#45CDAB",
     "BRAND_345": "#3AC7A2",
