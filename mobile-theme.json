@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.5.7",
+  "version": "1.5.8",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -30,8 +30,8 @@
       "#a3e9d3"
     ],
     "BACKGROUND_ACCENT": [
-      "rgba(26, 143, 120, 0.3)",
-      "rgba(26, 143, 120, 0.3)"
+      "rgba(233, 197, 96, 0.28)",
+      "rgba(233, 197, 96, 0.28)"
     ],
     "BACKGROUND_APP_LAUNCHER_CARD_DEFAULT": [
       "rgba(8, 15, 14, 0.5)",
@@ -182,8 +182,8 @@
       "#E3B15C"
     ],
     "BORDER_FOCUS": [
-      "#3FD9A5",
-      "#3FD9A5"
+      "#E9C560",
+      "#E9C560"
     ],
     "BORDER_MUTED": [
       "rgba(26, 143, 120, 0.25)",
@@ -210,12 +210,12 @@
       "#DC5283"
     ],
     "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
-      "rgba(26, 143, 120, 0.18)",
-      "rgba(26, 143, 120, 0.18)"
+      "rgba(233, 197, 96, 0.24)",
+      "rgba(233, 197, 96, 0.24)"
     ],
     "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
-      "rgba(26, 143, 120, 0.3)",
-      "rgba(26, 143, 120, 0.3)"
+      "#E9C560",
+      "#E9C560"
     ],
     "BUTTON_OUTLINE_PRIMARY_TEXT": [
       "#F5D9C0",
@@ -642,8 +642,8 @@
       "rgba(8, 15, 14, 0.5)"
     ],
     "GUILD_FOLDER_BACKGROUND": [
-      "rgba(26, 143, 120, 0.58)",
-      "rgba(26, 143, 120, 0.58)"
+      "rgba(26, 143, 120, 0.82)",
+      "rgba(26, 143, 120, 0.82)"
     ],
     "GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": [
       "#E9C560",
@@ -786,16 +786,16 @@
       "#F17AA7"
     ],
     "INTERACTIVE_ACCENT_BACKGROUND_ACTIVE": [
-      "rgba(26, 143, 120, 0.18)",
-      "rgba(26, 143, 120, 0.18)"
+      "rgba(233, 197, 96, 0.24)",
+      "rgba(233, 197, 96, 0.24)"
     ],
     "INTERACTIVE_ACCENT_BACKGROUND_DEFAULT": [
       "rgba(26, 143, 120, 0.18)",
       "rgba(26, 143, 120, 0.18)"
     ],
     "INTERACTIVE_ACCENT_BACKGROUND_SELECTED": [
-      "rgba(26, 143, 120, 0.18)",
-      "rgba(26, 143, 120, 0.18)"
+      "rgba(233, 197, 96, 0.42)",
+      "rgba(233, 197, 96, 0.42)"
     ],
     "INTERACTIVE_BACKGROUND_ACTIVE": [
       "rgba(8, 15, 14, 0.5)",
@@ -922,8 +922,8 @@
       "rgba(8, 15, 14, 0.6)"
     ],
     "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-      "rgba(26, 143, 120, 0.22)",
-      "rgba(26, 143, 120, 0.22)"
+      "rgba(26, 143, 120, 0.55)",
+      "rgba(26, 143, 120, 0.55)"
     ],
     "MOBILE_CHAT_NEW_MESSAGE_BORDER": [
       "rgba(8, 15, 14, 0.5)",
@@ -1006,8 +1006,8 @@
       "rgba(8, 15, 14, 0.75)"
     ],
     "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
-      "rgba(26, 143, 120, 0.58)",
-      "rgba(26, 143, 120, 0.58)"
+      "rgba(26, 143, 120, 0.82)",
+      "rgba(26, 143, 120, 0.82)"
     ],
     "MOBILE_GUILDBAR_ICON_DEFAULT": [
       "#a3e9d3",
