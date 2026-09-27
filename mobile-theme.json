@@ -1073,6 +1073,14 @@
       "#F5B027",
       "#F5B027"
     ],
+    "UNREAD_BADGE_TEXT": [
+      "#0E362D",
+      "#0E362D"
+    ],
+    "BADGE_TEXT": [
+      "#0E362D",
+      "#0E362D"
+    ],
     "MOBILE_VOICE_MESSAGE_RECORDING_LOCK_BACKGROUND_ACTIVE": [
       "rgba(8, 15, 14, 0.5)",
       "rgba(8, 15, 14, 0.5)"
