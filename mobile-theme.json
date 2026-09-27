@@ -262,12 +262,12 @@
       "rgba(0,0,0,0)"
     ],
     "CHANNEL_ICON": [
-      "#a3e9d3",
-      "#a3e9d3"
-    ],
-    "CHANNELS_DEFAULT": [
       "#38B393",
       "#38B393"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#a3e9d3",
+      "#a3e9d3"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "rgba(8, 15, 14, 0.65)",
