@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.5.8",
+  "version": "1.5.9",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -642,8 +642,8 @@
       "rgba(8, 15, 14, 0.5)"
     ],
     "GUILD_FOLDER_BACKGROUND": [
-      "rgba(26, 143, 120, 0.82)",
-      "rgba(26, 143, 120, 0.82)"
+      "#1A8F78",
+      "#1A8F78"
     ],
     "GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": [
       "#E9C560",
@@ -1006,8 +1006,8 @@
       "rgba(8, 15, 14, 0.75)"
     ],
     "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
-      "rgba(26, 143, 120, 0.82)",
-      "rgba(26, 143, 120, 0.82)"
+      "#1A8F78",
+      "#1A8F78"
     ],
     "MOBILE_GUILDBAR_ICON_DEFAULT": [
       "#a3e9d3",
