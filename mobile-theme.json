@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.4.8",
+  "version": "1.5.1-TEST",
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
@@ -802,8 +802,8 @@
       "rgba(8, 15, 14, 0.95)"
     ],
     "SPINE_DEFAULT": [
-      "rgba(20, 26, 23, 0.6)",
-      "rgba(20, 26, 23, 0.6)"
+      "#FF00FF",
+      "#FF00FF"
     ],
     "MOBILE_CHANNEL_SAFE_AREA_BOTTOM_BACKGROUND": [
       "rgba(8, 15, 14, 0.45)",
