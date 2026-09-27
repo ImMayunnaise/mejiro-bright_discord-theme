@@ -1634,8 +1634,8 @@
       "#E9C560"
     ],
     "HEADER_SECONDARY": [
-      "#38B393",
-      "#38B393"
+      "#a3e9d3",
+      "#a3e9d3"
     ],
     "TEXT_NORMAL": [
       "#F5D9C0",
@@ -1650,8 +1650,8 @@
       "#a3e9d3"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "TEXT_MUTED_ON_BRAND": [
       "#FFE3B0",
