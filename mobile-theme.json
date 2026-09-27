@@ -142,12 +142,12 @@
       "#E9C560"
     ],
     "BADGE_TEXT_BRAND": [
-      "#23a88e",
-      "#23a88e"
+      "#0E362D",
+      "#0E362D"
     ],
     "BADGE_TEXT_DEFAULT": [
-      "#0E1917",
-      "#0E1917"
+      "#0E362D",
+      "#0E362D"
     ],
     "BG_SURFACE_RAISED": [
       "rgba(20, 26, 23, 0.5)",
@@ -1602,20 +1602,20 @@
       "rgba(8, 15, 14, 0.7)"
     ],
     "VOICE_CHANNEL_USER_LIMIT_ACCENT_BACKGROUND": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#C4942B",
+      "#C4942B"
     ],
     "VOICE_CHANNEL_USER_LIMIT_BACKGROUND": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "rgba(233, 197, 96, 0.25)",
+      "rgba(233, 197, 96, 0.25)"
     ],
     "VOICE_CHANNEL_USER_LIMIT_ICON": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#3FD9A5",
+      "#3FD9A5"
     ],
     "VOICE_CHANNEL_USER_LIMIT_TEXT": [
-      "#F5D9C0",
-      "#F5D9C0"
+      "#3FD9A5",
+      "#3FD9A5"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
       "rgba(8, 15, 14, 0.5)",
