@@ -866,8 +866,8 @@
       "rgba(26, 143, 120, 0.16)"
     ],
     "MENTION_FOREGROUND": [
-      "#6FE0C4",
-      "#6FE0C4"
+      "#38B393",
+      "#38B393"
     ],
     "MESSAGE_AUTOMOD_BACKGROUND_DEFAULT": [
       "rgba(8, 15, 14, 0.5)",
