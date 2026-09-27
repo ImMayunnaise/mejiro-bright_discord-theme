@@ -70,8 +70,8 @@
       "rgba(8, 15, 14, 0.5)"
     ],
     "BACKGROUND_FEEDBACK_NOTIFICATION": [
-      "#E9C560",
-      "#E9C560"
+      "#ffbc00",
+      "#ffbc00"
     ],
     "BACKGROUND_FEEDBACK_POSITIVE": [
       "#1A8F78",
@@ -646,8 +646,8 @@
       "#1A8F78"
     ],
     "GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": [
-      "#E9C560",
-      "#E9C560"
+      "#ffbc00",
+      "#ffbc00"
     ],
     "GUILD_PROFILE_BANNER_BACKGROUND_DEFAULT": [
       "rgba(8, 15, 14, 0.7)",
@@ -674,8 +674,8 @@
       "#F5D9C0"
     ],
     "ICON_FEEDBACK_POSITIVE": [
-      "#3FD9A5",
-      "#3FD9A5"
+      "#008a5b",
+      "#008a5b"
     ],
     "ICON_FEEDBACK_WARNING": [
       "#E3B15C",
