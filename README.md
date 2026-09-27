@@ -39,11 +39,31 @@ A sleek Discord theme inspired by **Mejiro Bright** from *Uma Musume Pretty Derb
 
 ## 📸 Aperçu
 
-> SOON
-> 
-> 
-> 
-> 
+### 💻 Version PC
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b6e4924-b110-4292-8b54-62334b37b7ed" width="380" alt="Aperçu PC 1" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/98f2fc23-1def-4cfe-a9ee-b0ab01969047" width="380" alt="Aperçu PC 2" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/419ba5c9-7192-4c5f-902c-fac46d32a1a1" width="380" alt="Aperçu PC 3" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/41a48c2a-ec7a-4688-bbb0-c4b554bb6e21" width="380" alt="Aperçu PC 4" style="margin: 5px;">
+
+</p>
+
+### 📱 Version Mobile
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a7ac1bf-2c19-4509-9580-070f562c6620" width="240" alt="Aperçu Mobile 1" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/d9206619-4591-4107-9117-8c5e312648a9" width="240" alt="Aperçu Mobile 2" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/06df2b2e-7834-4df2-8462-804fb04d9b30" width="240" alt="Aperçu Mobile 3" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/003b4c44-ff31-48a5-885a-709b1f9a0f5e" width="240" alt="Aperçu Mobile 4" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/a3633327-8106-4fa5-8c2c-31d6415978c2" width="240" alt="Aperçu Mobile 5" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/3afa1a66-a90a-4997-8420-76b0fc8bb4fa" width="240" alt="Aperçu Mobile 6" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/e59b4f97-9c17-4550-95cb-d9eecdcd83b8" width="240" alt="Aperçu Mobile 7" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/de8672e8-251a-4eab-8c01-db3dde9ddd45" width="240" alt="Aperçu Mobile 8" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/e5cc64ac-c24f-47a4-8e12-8e57f1c041bd" width="240" alt="Aperçu Mobile 9" style="margin: 5px;">
+
+</p>
 
 ---
 
@@ -87,11 +107,29 @@ A sleek Discord theme inspired by **Mejiro Bright** from *Uma Musume Pretty Derb
 
 ## 📸 Preview
 
-> SOON
-> 
-> 
-> 
-> 
+### 💻 PC Version
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b6e4924-b110-4292-8b54-62334b37b7ed" width="380" alt="PC Preview 1" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/98f2fc23-1def-4cfe-a9ee-b0ab01969047" width="380" alt="PC Preview 2" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/419ba5c9-7192-4c5f-902c-fac46d32a1a1" width="380" alt="PC Preview 3" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/41a48c2a-ec7a-4688-bbb0-c4b554bb6e21" width="380" alt="PC Preview 4" style="margin: 5px;">
+</p>
+
+### 📱 Mobile Version
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a7ac1bf-2c19-4509-9580-070f562c6620" width="240" alt="Mobile Preview 1" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/d9206619-4591-4107-9117-8c5e312648a9" width="240" alt="Mobile Preview 2" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/06df2b2e-7834-4df2-8462-804fb04d9b30" width="240" alt="Mobile Preview 3" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/003b4c44-ff31-48a5-885a-709b1f9a0f5e" width="240" alt="Mobile Preview 4" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/a3633327-8106-4fa5-8c2c-31d6415978c2" width="240" alt="Mobile Preview 5" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/3afa1a66-a90a-4997-8420-76b0fc8bb4fa" width="240" alt="Mobile Preview 6" style="margin: 5px;">
+  <br>
+  <img src="https://github.com/user-attachments/assets/e59b4f97-9c17-4550-95cb-d9eecdcd83b8" width="240" alt="Mobile Preview 7" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/de8672e8-251a-4eab-8c01-db3dde9ddd45" width="240" alt="Mobile Preview 8" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/e5cc64ac-c24f-47a4-8e12-8e57f1c041bd" width="240" alt="Mobile Preview 9" style="margin: 5px;">
+</p>
 
 ---
 
