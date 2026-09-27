@@ -138,12 +138,12 @@
       "rgba(26, 143, 120, 0.25)"
     ],
     "BADGE_NOTIFICATION_BACKGROUND": [
-      "#E9C560",
-      "#E9C560"
+      "#ffbc00",
+      "#ffbc00"
     ],
     "BADGE_TEXT_BRAND": [
-      "#23a88e",
-      "#23a88e"
+      "#008c71",
+      "#008c71"
     ],
     "BADGE_TEXT_DEFAULT": [
       "#0E1917",
@@ -3671,7 +3671,7 @@
   },
   "plus": {
     "version": 0,
-    "unreadBadgeColor": "#E9C560",
+    "unreadBadgeColor": "#ffbc00",
     "mentionLineColor": "#1A8F78",
     "backgroundImageUrl": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
     "backgroundAlpha": 0.35,
