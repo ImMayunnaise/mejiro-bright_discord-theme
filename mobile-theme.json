@@ -266,8 +266,8 @@
       "#a3e9d3"
     ],
     "CHANNELS_DEFAULT": [
-      "#a3e9d3",
-      "#a3e9d3"
+      "#38B393",
+      "#38B393"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "rgba(8, 15, 14, 0.65)",
@@ -1650,8 +1650,8 @@
       "#a3e9d3"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#38B393",
-      "#38B393"
+      "#a3e9d3",
+      "#a3e9d3"
     ],
     "TEXT_MUTED_ON_BRAND": [
       "#FFE3B0",
