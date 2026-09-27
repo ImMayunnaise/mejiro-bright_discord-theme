@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.6.2",
+  "version": "1.6.3",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -1706,8 +1706,8 @@
       "rgba(15, 29, 23, 0.9)"
     ],
     "BACKGROUND_TERTIARY": [
-      "rgba(11, 22, 17, 0.94)",
-      "rgba(11, 22, 17, 0.94)"
+      "#0C170F",
+      "#0C170F"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#0C170F",
@@ -1726,8 +1726,8 @@
       "rgba(15, 29, 23, 0.9)"
     ],
     "BG_BASE_TERTIARY": [
-      "rgba(11, 22, 17, 0.94)",
-      "rgba(11, 22, 17, 0.94)"
+      "#0C170F",
+      "#0C170F"
     ],
     "BG_SURFACE_OVERLAY": [
       "rgba(15, 20, 18, 0.85)",
