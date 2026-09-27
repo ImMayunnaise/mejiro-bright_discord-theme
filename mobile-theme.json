@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.5.6",
+  "version": "1.5.7",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -70,8 +70,8 @@
       "rgba(8, 15, 14, 0.5)"
     ],
     "BACKGROUND_FEEDBACK_NOTIFICATION": [
-      "rgba(8, 15, 14, 0.5)",
-      "rgba(8, 15, 14, 0.5)"
+      "#E9C560",
+      "#E9C560"
     ],
     "BACKGROUND_FEEDBACK_POSITIVE": [
       "#1A8F78",
@@ -138,16 +138,16 @@
       "rgba(26, 143, 120, 0.25)"
     ],
     "BADGE_NOTIFICATION_BACKGROUND": [
-      "rgba(8, 15, 14, 0.5)",
-      "rgba(8, 15, 14, 0.5)"
+      "#E9C560",
+      "#E9C560"
     ],
     "BADGE_TEXT_BRAND": [
       "#23a88e",
       "#23a88e"
     ],
     "BADGE_TEXT_DEFAULT": [
-      "#FFE3B0",
-      "#FFE3B0"
+      "#0E1917",
+      "#0E1917"
     ],
     "BG_SURFACE_RAISED": [
       "rgba(20, 26, 23, 0.5)",
@@ -642,12 +642,12 @@
       "rgba(8, 15, 14, 0.5)"
     ],
     "GUILD_FOLDER_BACKGROUND": [
-      "rgba(12, 16, 15, 0.6)",
-      "rgba(12, 16, 15, 0.6)"
+      "rgba(26, 143, 120, 0.58)",
+      "rgba(26, 143, 120, 0.58)"
     ],
     "GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": [
-      "rgba(8, 15, 14, 0.5)",
-      "rgba(8, 15, 14, 0.5)"
+      "#E9C560",
+      "#E9C560"
     ],
     "GUILD_PROFILE_BANNER_BACKGROUND_DEFAULT": [
       "rgba(8, 15, 14, 0.7)",
@@ -1006,8 +1006,8 @@
       "rgba(8, 15, 14, 0.75)"
     ],
     "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
-      "rgba(12, 16, 15, 0.6)",
-      "rgba(12, 16, 15, 0.6)"
+      "rgba(26, 143, 120, 0.58)",
+      "rgba(26, 143, 120, 0.58)"
     ],
     "MOBILE_GUILDBAR_ICON_DEFAULT": [
       "#a3e9d3",
@@ -1182,20 +1182,20 @@
       "rgba(26, 143, 120, 0.3)"
     ],
     "REACTION_BACKGROUND_DEFAULT": [
-      "rgba(26, 143, 120, 0.12)",
-      "rgba(26, 143, 120, 0.12)"
+      "rgba(233, 197, 96, 0.2)",
+      "rgba(233, 197, 96, 0.2)"
     ],
     "REACTION_BACKGROUND_REACTED_DEFAULT": [
-      "rgba(26, 143, 120, 0.3)",
-      "rgba(26, 143, 120, 0.3)"
+      "rgba(233, 197, 96, 0.42)",
+      "rgba(233, 197, 96, 0.42)"
     ],
     "REACTION_BORDER_DEFAULT": [
-      "rgba(26, 143, 120, 0.25)",
-      "rgba(26, 143, 120, 0.25)"
+      "rgba(233, 197, 96, 0.35)",
+      "rgba(233, 197, 96, 0.35)"
     ],
     "REACTION_BORDER_REACTED_DEFAULT": [
-      "#1A8F78",
-      "#1A8F78"
+      "#E9C560",
+      "#E9C560"
     ],
     "REACTION_TEXT_ACTIVE": [
       "#a3e9d3",
@@ -3671,7 +3671,7 @@
   },
   "plus": {
     "version": 0,
-    "unreadBadgeColor": "#F17AA7",
+    "unreadBadgeColor": "#E9C560",
     "mentionLineColor": "#1A8F78",
     "backgroundImageUrl": "https://raw.githubusercontent.com/ImMayunnaise/mejiro-bright_discord-theme/refs/heads/main/wallpaper-phone.jpg",
     "backgroundAlpha": 0.35,
