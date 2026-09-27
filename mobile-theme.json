@@ -1,12 +1,12 @@
 {
-  "name": "Mejiro Bright | Moonlit Conservatory",
-  "description": "A custom moonlit garden palette: deep evergreen, winter mint, warm ivory, champagne gold, and soft coral. for Discord build 346013",
+  "name": "Mejiro Bright | Uma Musume",
+  "description": "A fully exhaustive custom anime theme inspired by Mejiro Bright, adapted for Discord build 346013",
   "authors": [
     {
       "name": "immayunnaise"
     }
   ],
-  "version": "1.5.9",
+  "version": "1.6.0",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -3252,7 +3252,7 @@
     "PRIMARY_630": "#182E29",
     "PRIMARY_645": "#152823",
     "PRIMARY_660": "#12211D",
-    "PRIMARY_700": "#0E1917",
+    "PRIMARY_700": "#0C170F",
     "PRIMARY_730": "#0B1412",
     "PRIMARY_760": "#0A1210",
     "PRIMARY_800": "#080F0E",
