@@ -6,7 +6,7 @@
       "name": "immayunnaise"
     }
   ],
-  "version": "1.6.0",
+  "version": "1.6.1",
   "spec": 2,
   "semanticColors": {
     "ACTIVITY_TIMEBAR_PROGRESS_BACKGROUND": [
@@ -106,8 +106,8 @@
       "rgba(8, 15, 14, 0.6)"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(15, 29, 23, 0.9)",
+      "rgba(15, 29, 23, 0.9)"
     ],
     "BACKGROUND_SURFACE_HIGH": [
       "rgba(20, 26, 23, 0.5)",
@@ -1694,40 +1694,40 @@
       "#a3e9d3"
     ],
     "CHAT_BACKGROUND": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(8, 17, 14, 0.78)",
+      "rgba(8, 17, 14, 0.78)"
     ],
     "BACKGROUND_PRIMARY": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(8, 17, 14, 0.78)",
+      "rgba(8, 17, 14, 0.78)"
     ],
     "BACKGROUND_SECONDARY": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(15, 29, 23, 0.9)",
+      "rgba(15, 29, 23, 0.9)"
     ],
     "BACKGROUND_TERTIARY": [
-      "rgba(8, 15, 14, 0.55)",
-      "rgba(8, 15, 14, 0.55)"
+      "rgba(11, 22, 17, 0.94)",
+      "rgba(11, 22, 17, 0.94)"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(8, 17, 14, 0.78)",
+      "rgba(8, 17, 14, 0.78)"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "rgba(8, 15, 14, 0.45)",
-      "rgba(8, 15, 14, 0.45)"
+      "rgba(15, 29, 23, 0.9)",
+      "rgba(15, 29, 23, 0.9)"
     ],
     "BG_BASE_PRIMARY": [
-      "rgba(0,0,0,0)",
-      "rgba(0,0,0,0)"
+      "rgba(8, 17, 14, 0.78)",
+      "rgba(8, 17, 14, 0.78)"
     ],
     "BG_BASE_SECONDARY": [
-      "rgba(8, 15, 14, 0.4)",
-      "rgba(8, 15, 14, 0.4)"
+      "rgba(15, 29, 23, 0.9)",
+      "rgba(15, 29, 23, 0.9)"
     ],
     "BG_BASE_TERTIARY": [
-      "rgba(8, 15, 14, 0.55)",
-      "rgba(8, 15, 14, 0.55)"
+      "rgba(11, 22, 17, 0.94)",
+      "rgba(11, 22, 17, 0.94)"
     ],
     "BG_SURFACE_OVERLAY": [
       "rgba(15, 20, 18, 0.85)",
