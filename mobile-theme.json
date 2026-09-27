@@ -1073,14 +1073,6 @@
       "#F5B027",
       "#F5B027"
     ],
-    "UNREAD_BADGE_TEXT": [
-      "#0E362D",
-      "#0E362D"
-    ],
-    "BADGE_TEXT": [
-      "#0E362D",
-      "#0E362D"
-    ],
     "MOBILE_VOICE_MESSAGE_RECORDING_LOCK_BACKGROUND_ACTIVE": [
       "rgba(8, 15, 14, 0.5)",
       "rgba(8, 15, 14, 0.5)"
@@ -1322,16 +1314,16 @@
       "#1A8F78"
     ],
     "STATUS_POSITIVE": [
-      "#0E362D",
-      "#0E362D"
+      "#3FD9A5",
+      "#3FD9A5"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
       "#1A8F78",
       "#1A8F78"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#0E362D",
-      "#0E362D"
+      "#3FD9A5",
+      "#3FD9A5"
     ],
     "STATUS_SPEAKING": [
       "#3FD9A5",
@@ -1662,12 +1654,12 @@
       "#a3e9d3"
     ],
     "TEXT_MUTED_ON_BRAND": [
-      "#0E362D",
-      "#0E362D"
+      "#FFE3B0",
+      "#FFE3B0"
     ],
     "TEXT_ON_BRAND": [
-      "#0E362D",
-      "#0E362D"
+      "#FFF1D6",
+      "#FFF1D6"
     ],
     "TEXT_POSITIVE": [
       "#3FD9A5",
@@ -1682,8 +1674,8 @@
       "#F17AA7"
     ],
     "INTERACTIVE_NORMAL": [
-      "#0E362D",
-      "#0E362D"
+      "#a8e6cf",
+      "#a8e6cf"
     ],
     "INTERACTIVE_HOVER": [
       "#1A8F78",
@@ -2270,8 +2262,8 @@
     "BRAND_160": "#D9F2EA",
     "BRAND_200": "#9BEBD8",
     "BRAND_230": "#C9E2DA",
-    "BRAND_260": "#0E362D",
-    "BRAND_300": "#0E362D",
+    "BRAND_260": "#6FE0C4",
+    "BRAND_300": "#57D6B7",
     "BRAND_330": "#45CDAB",
     "BRAND_345": "#3AC7A2",
     "BRAND_360": "#2FC098",
